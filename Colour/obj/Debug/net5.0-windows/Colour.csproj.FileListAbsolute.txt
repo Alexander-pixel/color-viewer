@@ -1,0 +1,12 @@
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\bin\Debug\net5.0-windows\Colour.deps.json
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\bin\Debug\net5.0-windows\Colour.dll
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\bin\Debug\net5.0-windows\ref\Colour.dll
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\bin\Debug\net5.0-windows\Colour.pdb
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.dll
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\ref\Colour.dll
+C:\Users\Alexander\OneDrive\Робочий стіл\Шаг\WPF\ColorViewer\Colour\obj\Debug\net5.0-windows\Colour.pdb
